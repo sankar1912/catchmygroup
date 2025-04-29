@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/catchmygroup/static/css/main.dc4d6ff2.css",
+    "main.js": "/catchmygroup/static/js/main.47078f27.js",
+    "index.html": "/catchmygroup/index.html",
+    "main.dc4d6ff2.css.map": "/catchmygroup/static/css/main.dc4d6ff2.css.map",
+    "main.47078f27.js.map": "/catchmygroup/static/js/main.47078f27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.47078f27.js"
+  ]
+}
